@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking(but dont hack me), Web Designing and CSS
 - 🌱 I’m currently learning what I am interested in.
 - 💞️ I’m looking to collaborate on making the internet a better place.
-- 📫 How to reach me, I will keep my contacts soon but dont sit waiting I rarely even come here(just kiding)
+- 📫 How to reach me, I will keep my contacts soon but dont sit waiting I rarely even come here(just kidding)
 
 <!---
 chr1xt0pher/chr1xt0pher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
